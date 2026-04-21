@@ -1966,7 +1966,7 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
-## [MCPSpy](https://github.com/e2b-dev/awesome-ai-agents)
+## [MCPSpy](https://github.com/harshkatakwar/mcpspy)
 Autonomous MCP Performance Analyzer
 
 <details>
@@ -1981,7 +1981,7 @@ Development, Debugging, Testing
 - An invaluable tool for any developer building or testing robust MCP backends.
 
 ### Links
-- [GitHub](https://github.com/e2b-dev/awesome-ai-agents)
+- [GitHub](https://github.com/harshkatakwar/mcpspy)
 
 </details>
 
